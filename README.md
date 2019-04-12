@@ -61,12 +61,7 @@ Sign up for [IBM Watson Studio](https://dataplatform.ibm.com).
 * Click on **Notebook**.
 * Click on **From URL**.
 * Fill in a name for the notebook (e.g. "diabetes-prediction").
-* Copy and paste this URL into the notebook URL field:
-
-```
-https://raw.githubusercontent.com/IBM/summit-health-machine-learning/master/diabetes-prediction.ipynb
-```
-
+* Copy and paste this URL into the notebook URL field: https://raw.githubusercontent.com/IBM/summit-health-machine-learning/master/diabetes-prediction.ipynb
 * In the **Select runtime** drop-down box, choose the entry that begins with **Default Spark Python**.
 * Click the **Create Notebook** button.
 
