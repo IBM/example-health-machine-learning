@@ -25,10 +25,10 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 # Prerequisites
 
-This project is part of a series of code patterns pertaining to a fictional health care company called Summit Health.
+This project is part of a series of code patterns pertaining to a fictional health care company called Example Health.
 This company stores electronic health records in a database on a z/OS server.
 Before running the notebook, the synthesized health records must be created and loaded into this database.
-Another project, https://github.com/IBM/summit-health-synthea, provides the steps for doing this.
+Another project, https://github.com/IBM/example-health-synthea, provides the steps for doing this.
 The records are created using a tool called [Synthea](https://github.com/synthetichealth/synthea), transformed and loaded into the database.
 
 If required, set up the [Secure Gateway service](https://console.bluemix.net/docs/services/SecureGateway/index.html#getting-started-with-sg)
@@ -61,7 +61,7 @@ Sign up for [IBM Watson Studio](https://dataplatform.ibm.com).
 * Click on **Notebook**.
 * Click on **From URL**.
 * Fill in a name for the notebook (e.g. "diabetes-prediction").
-* Copy and paste this URL into the notebook URL field: https://raw.githubusercontent.com/IBM/summit-health-machine-learning/master/diabetes-prediction.ipynb
+* Copy and paste this URL into the notebook URL field: https://raw.githubusercontent.com/IBM/example-health-machine-learning/master/diabetes-prediction.ipynb
 * In the **Select runtime** drop-down box, choose the entry that begins with **Default Spark Python**.
 * Click the **Create Notebook** button.
 
