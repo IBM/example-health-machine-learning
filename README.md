@@ -38,7 +38,7 @@ to provide you with a secure way to access your on-premise data source.
 
 ## Sign up for Watson Studio
 
-Sign up for [IBM Watson Studio](https://dataplatform.ibm.com). 
+Sign up for [IBM Watson Studio](https://dataplatform.cloud.ibm.com). 
 
 ## Create a project
 
